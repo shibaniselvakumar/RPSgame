@@ -1,0 +1,40 @@
+body{
+    background-color: #01204E;
+   text-align: center;
+}
+
+h1{
+    color: #F6DCAC;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
+}
+
+h2{
+    color: #FEAE6F;
+    font-family: "Teko", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 3rem;
+}
+
+.btn{
+    height:300px;
+    width: 300px;
+    margin: 50px;
+    border:10px black solid;
+    border-radius: 25%;
+    background-color: white;
+    margin-bottom: 0px;;
+}
+
+img{
+    height:180px;
+    width: 180px;
+}
+
+p{
+    font-family: "Bebas Neue", sans-serif;
+    font-size:1rem;
+}
