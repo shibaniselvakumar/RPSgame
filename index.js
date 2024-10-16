@@ -15,7 +15,7 @@ var myOption=options[randomnumber];
             $("h1").text("Try again!😉")
         }
         else if((myOption=="paper"&&userOption=="rock")||(myOption=="rock"&&userOption=="scissors")||(myOption=="scissors"&&userOption=="paper")){
-            $("h1").text("You lose Kavi! HAHA😂");
+            $("h1").text("You lose! HAHA😂");
         }
         else if((userOption=="paper"&&myOption=="rock")||(userOption=="rock"&&myOption=="scissors")||(userOption=="scissors"&&myOption=="paper")){
             $("h1").text("You win!YAYY🥳");
